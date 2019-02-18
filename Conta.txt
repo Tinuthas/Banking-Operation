@@ -1,0 +1,2 @@
+﻿numeroC=100 numeroP=102 nome=Teste cpf=222.222.222.-22 rg=22.222.222-2 idade=21 saldoC=300 saldoP=100
+numeroC=101 numeroP=103 nome=Teste2 cpf=222.222.222.-23 rg=22.222.222-3 idade=32 saldoC=200 saldoP=100

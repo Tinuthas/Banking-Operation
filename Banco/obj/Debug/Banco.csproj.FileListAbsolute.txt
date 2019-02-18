@@ -1,7 +1,0 @@
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\obj\Debug\Banco.csprojAssemblyReference.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\obj\Debug\Banco.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\bin\Debug\Banco.exe.config
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\bin\Debug\Banco.exe
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\bin\Debug\Banco.pdb
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\obj\Debug\Banco.exe
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp1\obj\Debug\Banco.pdb

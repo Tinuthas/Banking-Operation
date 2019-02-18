@@ -1,6 +1,0 @@
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

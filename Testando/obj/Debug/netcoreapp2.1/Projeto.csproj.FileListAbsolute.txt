@@ -1,9 +1,0 @@
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.csprojAssemblyReference.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.AssemblyInfoInputs.cache
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.AssemblyInfo.cs
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\bin\Debug\netcoreapp2.1\Projeto.deps.json
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\bin\Debug\netcoreapp2.1\Projeto.dll
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\bin\Debug\netcoreapp2.1\Projeto.pdb
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.dll
-C:\Users\DELL\Desktop\Projetos\VisualStudio\Testando\Testando\obj\Debug\netcoreapp2.1\Projeto.pdb
